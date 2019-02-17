@@ -1,0 +1,4 @@
+Shovel Drive,High
+Weed Garden,Low
+Walk Dogs,High
+Repair Fence,Low
